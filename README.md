@@ -19,8 +19,7 @@ and add more features to it if you want. It's really simple to use.
 
 
 ## Demo
-
-https://geeky.com
+https://paystack-api.cyclic.app
 
 
 

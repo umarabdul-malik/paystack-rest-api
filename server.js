@@ -5,7 +5,7 @@ const bodyParser = require("body-parser");
 const verifyPayment = require("./api/controllers/verifyTransaction.js");
 app.use(bodyParser.json());
 
-app.use("/api/payment", verifyPayment);
+app.use("/api/payment/verify", verifyPayment);
 
 app.get("/", (req, res) => {
   res.json({

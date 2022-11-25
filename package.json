@@ -8,7 +8,7 @@
     "uuid": "^9.0.0"
   },
   "scripts": {
-    "start": "npm server.js"
+    "start": ""test": "echo \"Error: no test specified\" && exit 1""
   },
   "name": "paystack",
   "version": "1.0.0",
